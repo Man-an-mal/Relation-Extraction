@@ -4,6 +4,6 @@ Results of Evaluation and Discussion
 
             F1 Score       Final Accuracy
             
-BiLSTM RPE  70.42           75.27
+BiLSTM RPE    70.42              75.27
 
-BERT + SVM  59.0            64.26
+BERT + SVM    59.0               64.26
